@@ -5,3 +5,7 @@ Imágen del circuito
 
 El objetivo de esta práctica es conseguir que estos dos ledes parpadeen alternativamente, es decir, uno se enciende, se apaga, se enciende el otro, se apaga el otro, se enciende este... Así en bucle, la forma en la que se consigue esto es programando la placa de arduino.
 Yo he usado este código
+
+![](Imágenes/Captura.PNG)
+
+Imágen del código
