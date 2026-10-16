@@ -12,3 +12,5 @@ Imágen del código
 
 # Pulsador🔳💥
 En esta práctica tenemos un diodo led apagado, una resistencia y un pulsador (la placa arduino y de prototipado se asumen de aquí en adelante).
+
+![](Imágenes/SuperUusam-Kasi.png)
