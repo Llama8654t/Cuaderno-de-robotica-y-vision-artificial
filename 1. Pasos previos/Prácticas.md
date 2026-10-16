@@ -14,3 +14,12 @@ Imágen del código
 En esta práctica tenemos un diodo led apagado, una resistencia y un pulsador (la placa arduino y de prototipado se asumen de aquí en adelante).
 ![](Imágenes/Digit.png)
 Imágen del circuito
+
+Esta práctica radica en que cuando pulses el botón el led parpadee y cuando no, se quede apagado.
+Para conseguir este propósito debes conectar el circuito de la forma indicada arriba y programar este código.
+
+![](Imágenes/ideal.png)
+
+Imágen del código
+
+Al hacer esto el led no recibirá energía excepto mientras este el botón pulsado lo que hará que la reciba a intervalos y que parpadee.
