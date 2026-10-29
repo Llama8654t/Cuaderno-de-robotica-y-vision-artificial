@@ -38,4 +38,8 @@ En esta práctica el objetivo es traducir los valores de 0/1023 a 0/100 con la f
 ![](https://youtu.be/5j6acxE6GcQ)
 
 # PMW ☀️🔌
-Para esta práctica hay que hacer lo mismo que en la anterior pero usando el duty cycle para que según el 
+Para esta práctica hay que hacer lo mismo que en la anterior pero usando el analogWrite para que según el valor el led brille más o menos
+
+![](Imágenes/Gesellschaft.png)
+
+![](https://youtu.be/TpQccybsYxI)
