@@ -27,3 +27,5 @@ Al hacer esto el led no recibirá energía excepto mientras este el botón pulsa
 # Potenciómetro motor serie💻
 En esta práctica debemos hacer aparecer distintos valores del 0 al 1023 según un potenciómetro usando este código
 ![](Imágenes/duh.png)
+
+ ![](https://youtu.be/V4t4Z5Ap5OQ)
