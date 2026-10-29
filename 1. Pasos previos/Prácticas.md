@@ -25,7 +25,10 @@ Imágen del código
 Al hacer esto el led no recibirá energía excepto mientras este el botón pulsado lo que hará que la reciba a intervalos y que parpadee.
 
 # Potenciómetro motor serie💻
-En esta práctica debemos hacer aparecer distintos valores del 0 al 1023 según un potenciómetro usando este código
+En esta práctica debemos hacer aparecer distintos valores del 0 al 1023 en el monitor serie según un potenciómetro usando este código
 ![](Imágenes/duh.png)
 
  ![](https://youtu.be/V4t4Z5Ap5OQ)
+
+# Mapeado de datos del potenciómetro💾🗺️
+En esta práctica el objetivo es traducir los valores de 0/1023 a 0/100 con la función de mapeado y que según el valor el led brille más o menos gracias al dutycicle
