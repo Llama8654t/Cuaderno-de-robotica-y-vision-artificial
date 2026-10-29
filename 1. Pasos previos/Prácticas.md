@@ -31,4 +31,11 @@ En esta práctica debemos hacer aparecer distintos valores del 0 al 1023 en el m
  ![](https://youtu.be/V4t4Z5Ap5OQ)
 
 # Mapeado de datos del potenciómetro💾🗺️
-En esta práctica el objetivo es traducir los valores de 0/1023 a 0/100 con la función de mapeado y que según el valor el led brille más o menos gracias al dutycicle
+En esta práctica el objetivo es traducir los valores de 0/1023 a 0/100 con la función de mapeado.
+
+![](Imágenes/Soleil.png)
+
+![](https://youtu.be/5j6acxE6GcQ)
+
+# PMW ☀️🔌
+Para esta práctica hay que hacer lo mismo que en la anterior pero usando el duty cycle para que según el 
