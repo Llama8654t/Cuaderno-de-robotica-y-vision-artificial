@@ -45,7 +45,11 @@ Para esta práctica hay que hacer lo mismo que en la anterior pero usando el ana
 [![](https://img.youtube.com/vi/TpQccybsYxI/0.jpg)](https://www.youtube.com/watch?v=TpQccybsYxI)
 
 # Ultrasonidos🔊📡
-Para esta práctica tenía que conseguir hacer programa en el que cuando un objeto estaba a menos de 15cm de un ultrasonido un diodo LED se encendía.
+Para esta práctica tenía que conseguir hacer programa en el que cuando un objeto estaba a menos de 15cm de un ultrasonido un diodo LED se encendía. Para este reto deberé de usar las librerías del ultrasonidos
 
 ![](Imágenes/Ungefeizer.PNG)
 
+# Control de luminosidad de ledes según distancia📡🔊💡📈
+Aquí necesitó crear un código parecido al anterior pero el led debe de iluminarse progresivamente según se acerca al ultrasonidos.
+
+![](Imágenes/walpurgisnatch.PNG)
